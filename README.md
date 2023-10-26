@@ -1,7 +1,7 @@
 
 # Emotion Detection in Faces using Python with Haar Cascade Classifiers
 
-![face happy](https://imgur.com/2QNlRyo)
+![face happy](https://i.imgur.com/2QNlRyo.png)
 
 Emotions play a fundamental role in human communication. Recognizing and understanding emotions expressed by individuals is crucial in various applications, from human-computer interaction to mental health assessment. In the world of computer vision, one of the essential tasks is the detection of emotions in faces. This GitHub project focuses on achieving this task using Python and Haar Cascade Classifiers.
 
